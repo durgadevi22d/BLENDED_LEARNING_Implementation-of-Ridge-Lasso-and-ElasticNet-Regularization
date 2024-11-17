@@ -97,6 +97,8 @@ evaluate_model(ElasticNet(alpha=0.1, l1_ratio=0.5, max_iter=1000000), "ElasticNe
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+
+
 ![501](https://github.com/user-attachments/assets/ed4d9f6b-7092-4d71-b626-d8a6ba4bbe86)
 
 ## Result:
